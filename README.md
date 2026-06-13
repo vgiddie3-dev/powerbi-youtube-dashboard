@@ -1,20 +1,33 @@
-# powerbi-youtube-dashboard
-Power BI project analyzing YouTube data with KPIs, Top-N filtering, and interactive visuals.
-# 📊 YouTube Analytics Dashboard (Power BI)
+# YouTube Analytics Dashboard
 
-This project analyzes YouTube video performance using **Power BI** with data from `youtube_data.xlsx`.  
-The dashboard highlights KPIs, trends, and engagement metrics.
+## Overview
 
-## 🚀 Features
-- Total uploads, views, and engagement metrics
-- Top-N analysis of most popular videos
-- Category-wise breakdown
-- Trend analysis of views over time
+This project analyzes YouTube channel performance using Power BI. The dashboard provides insights into subscriber growth, views, uploads, and creator performance through interactive visualizations.
 
-## 📂 Files
-- `GlobalYouTubeStatistics.csv` → Source dataset used to build the dashboard  
-- `YT_PBI_dashboard.pdf` → Exported dashboard (static view)  
+## Tools Used
 
+- Power BI
+- DAX
+- CSV Dataset
+
+## Dashboard Features
+
+- KPI Cards
+- Top-N Filtering
+- Creator Analysis
+- Subscriber Analysis
+- View Analysis
+
+## Files
+
+- Global YouTube Statistics.csv
+- YT_PBI_dashboard.pdf
+- Dashboard Demo Video
+
+## Future Improvements
+
+- Real-time YouTube API integration
+- Additional performance metrics
 ## 📸 Preview
 <img width="945" height="534" alt="image" src="https://github.com/user-attachments/assets/8269d90c-8128-4244-97ae-28f599e8e1b8" />
 (screenshots/overview.png)
